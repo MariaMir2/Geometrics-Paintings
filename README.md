@@ -1,3 +1,5 @@
+#Geometrics Paintings
+
 Este proyecto se basa en realizar un dibujo (de una casa en este caso) mediante figuras geométricas de java:
 
 - Se especifica en cada archivo la figura geométrica a tratar, así como de la persona, posición, tamaño y color que se le asigna de forma automática.
